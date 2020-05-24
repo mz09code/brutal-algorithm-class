@@ -6,6 +6,9 @@
 
 想报名的同学加 QQ 群：538935270 或者我QQ：1070494510
 
+## 算法可视化游乐场 Algorithm Playground
+https://creatcodebuild.github.io/brutal-algorithm-class/visual/visual.html
+
 ## 课程大纲
 本课程5月19日（周二）开课，一共2个月（8周）24节直播课，每节课 80 分钟。课程还包括与老师的 __一对一辅导__ 课。
 
@@ -28,29 +31,32 @@
 [如何提交作业](如何提交作业.md)
 
 ## 第一周
+### 预习课 1
+## 课程视频
+[预习课1：插入排序](https://www.bilibili.com/video/BV1gz411q74e/)  
+
+### 预习课 2
+[预习课2：递归、函数式编程、动态规划](https://www.bilibili.com/video/BV1Bt4y117tG/)  
+
 ### 第 1 课
 - 数据结构与算法
 - 数组
-- 排序
-- 搜索
-- 插入排序
+- 随机算法之洗牌算法 Shuffling
 
 ### 第 2 课
-- 冒泡排序
-- 选择排序
-- 初探算法（复杂度）分析
+- 初探递归：递归与算法
+- 递归之归并排序
+- 初探复杂度分析：复杂度分析与算法，O（上限）、Θ（类似置信区间）、Ω（下限）
 
 ### 第 3 课
-- 初探递归
-- 快排
-- 归并排序
+- 再谈递归：递归与数据结构
+- 链表 Linked List
+- 再谈复杂度分析：复杂度分析与数据结构
 
 ## 第二周
 ### 第 4 课
+- 快排
 - 数组的二分搜索
-- 链表
-- 再看复杂度分析
-- 算法复杂度与数据结构
 
 ### 第 5 课
 Let's plant trees!
@@ -158,10 +164,6 @@ Let's plant trees!
 # FAQ 常见问题
 ### 用什么语言？
 这是一节算法课，语言不是根本问题。课件会用JS因为我有准备一些前端算法可视化。作业大家可以用C, CPP, Java, Go, Python, JavaScript, 甚至 PHP。我都可以批改。
-
-## 课程视频
-[预习课1：插入排序](https://www.bilibili.com/video/BV1gz411q74e/)  
-[预习课2：递归、函数式编程、动态规划](https://www.bilibili.com/video/BV1Bt4y117tG/)  
 
 
 [GitPod](https://f67cdf40-7d34-4b12-a06e-9a5a76967c39.ws-us02.gitpod.io/#/workspace/brutal-algorithm-class)
